@@ -30,6 +30,8 @@ storyboard = UIStoryboard.storyboardWithName('Storyboard', bundle: nil)
 
 ## What you should do after cloning
 
+### Edit app.name in Rakefile
+
 ### Bundle install
 <pre>
 $ bundle install
