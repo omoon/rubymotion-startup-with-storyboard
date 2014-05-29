@@ -35,6 +35,7 @@ storyboard = UIStoryboard.storyboardWithName('Storyboard', bundle: nil)
 ### Bundle install
 <pre>
 $ bundle install
+$ rake pod:install
 $ rake ib:open
 $ rake
 </pre>
