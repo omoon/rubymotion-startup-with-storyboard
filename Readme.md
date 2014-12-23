@@ -34,10 +34,10 @@ storyboard = UIStoryboard.storyboardWithName('Storyboard', bundle: nil)
 
 ### Bundle install
 <pre>
-$ bundle install
-$ rake pod:install
-$ rake ib:open
-$ rake
+$ bundle install --path vendor/bundle
+$ bundle exec rake pod:install
+$ bundle exec rake ib:open
+$ bundle exec rake
 </pre>
 
 ### And more..
